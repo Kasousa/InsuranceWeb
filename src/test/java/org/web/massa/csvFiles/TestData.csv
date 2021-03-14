@@ -1,0 +1,6 @@
+﻿ID, Data
+vehicleData, make: Audi;model: Scooter;cylinderCapacity: 1234; enginePerformance: 1234; dateOfManufacture: 01/01/2019; numberOfSeats: 4; numberOfSeatsMotorcycle: 2; fuelType: Diesel; payload: 123; totalWeight: 1234; listPrice: 1234.56; licensePlateNumber: FKI-2514; annualMileage: 1234
+insuranceData, firstName: Kaique; lastName: Sousa; dateOfBirth: 02/19/1989; streetAdress: Rua ABCD; country: Barbados; ZIPCode: 09865320; city: abcd; occupation: Engenheiro; website: www.globo.com.br
+productData, startDate: 01/01/2022; insuranceSum: 3.000.000; meritRating: Super Bonus; damageInsurance: No Coverage; courtesyCar: No
+sendQuote, email: Kaique@gmail.com; phone: 43524065; username: kquesso; password: Kquesso123; confirmPassword: Kquesso123; comments: comments ABCD
+
